@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz Master</string>
+
+    <!-- QUESTION SCREEN -->
+
+    <string name="title_home">Home</string>
+    <string name="question_category">Escolha a Categoria</string>
+    <string name="question_subject">Pergunta</string>
+    <string name="question_correct_answer">Resposta Certa</string>
+    <string name="question_alternative_one">Resposta Errada</string>
+    <string name="question_alternative_two">Resposta Errada</string>
+    <string name="question_alternative_three">Resposta Errada</string>
+    <string name="question_hint">Dica</string>
+
+
+    <string-array name="category">
+        <item>História, Linguas e etc...</item>
+        <item>Ciências, Tecnologia e etc...</item>
+        <item>Livros, Arte e etc...</item>
+        <item>Esportes e etc...</item>
+        <item>Filmes, Séries e etc...</item>
+    </string-array>
+</resources>
